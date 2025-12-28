@@ -236,6 +236,4 @@ This project uses only **open-source libraries** and is intended for **education
 
 ---
 
-### 🎉 Status: **Placement-Ready Submission**
 
----
